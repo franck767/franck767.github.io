@@ -1,0 +1,129 @@
+@charset "utf-8";
+/* CSS Document */
+
+#page {
+	padding: 0px;
+	width: 940px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#haut {
+	background-color: #333333;
+	margin: 0px;
+	padding: 0px;
+	height: 100px;
+}
+#haut h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	padding-top: 0,10;
+	padding-left: 10px;
+}
+#nav {
+	background-color: #99CC00;
+	margin: 0px;
+	padding: 0px;
+	height: 30px;
+}
+#contenu {
+	margin: 0px;
+	padding: 0px;
+}
+#pied {
+	background-color: #CCCCCC;
+	margin: 0px;
+	padding: 0px;
+	height: 30px;
+}
+#nav {
+	margin: 0px;
+	padding: 0px;
+	height: 30px;
+	background-color: #709500;
+}
+#nav ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+#nav li {
+	display: inline;
+	margin: 0px;
+	padding: 0px;
+}
+#nav li a {
+	text-decoration: none;
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	display: block;
+	margin: 0px;
+	float: left;
+	height: 25px;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+}
+#nav li a:hover {
+	background-color: #628200;
+}
+#nav li.active a {
+	background-color: #3D5100;
+}
+#contenu h1 {
+	color: #99CC00;
+}
+.img-left {
+	float: left;
+	margin: 10px;
+}
+#pied p {
+	height: 25px;
+	padding-top: 5px;
+	padding-left: 5px;
+}
+.blok {
+	float: left;
+	width: 300px;
+	margin-right: 10px;
+}
+.clear {
+	clear: both;
+}
+.blok {
+	float: left;
+	margin-right: 80px;
+}
+.img-right {
+	float: right;
+	margin-right: 10px;
+}
+#pied p {
+	height: 30px;
+	padding-top: 20px;
+	padding-left: 20px;
+}
+.blok {
+	float: left;
+	width: 310px;
+	margin-right: 10px;
+}
+#haut {
+	color: #006633;
+	background-image: url(../img/defil%C3%A9%20des%20modes.jpg);
+	height: 200px;
+	margin-left: 10px;
+	padding-left: 10px;
+}
+blok {
+}
+#nav .active {
+	background-color: #4B6400;
+}
+#nav .active a {
+	background-color: #709500;
+}
